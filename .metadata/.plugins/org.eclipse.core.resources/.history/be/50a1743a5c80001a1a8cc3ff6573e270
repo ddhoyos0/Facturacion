@@ -1,0 +1,9 @@
+package com.djhoyos.facturacion.com.service.tipoDocumento;
+
+import java.util.List;
+
+import com.djhoyos.facturacion.com.models.Factura;
+
+public interface TipoDocumentoService {
+
+}

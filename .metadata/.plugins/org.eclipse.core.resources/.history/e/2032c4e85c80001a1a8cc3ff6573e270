@@ -1,0 +1,5 @@
+package com.djhoyos.facturacion.com.service.tipoDocumento;
+
+public class TipoDocumentoImpl implements TipoDocumentoService {
+
+}

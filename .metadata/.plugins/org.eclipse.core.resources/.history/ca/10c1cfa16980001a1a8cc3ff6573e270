@@ -1,0 +1,33 @@
+package com.djhoyos.facturacion.com.service.producto;
+
+import java.util.List;
+
+import com.djhoyos.facturacion.com.models.Producto;
+
+public class ProcutoServiceImpl implements ProductoService {
+
+	@Override
+	public List<Producto> listar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Producto crear(Producto producto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Producto editar(Producto producto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminar(int id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

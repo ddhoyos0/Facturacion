@@ -1,0 +1,5 @@
+package com.djhoyos.facturacion.com.repository;
+
+public interface ClienteRepository {
+
+}

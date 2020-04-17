@@ -1,0 +1,5 @@
+package com.djhoyos.facturacion.com.models;
+
+public class Producto {
+
+}

@@ -1,0 +1,5 @@
+package com.djhoyos.facturacion.com.service.item;
+
+public interface ItemService {
+
+}

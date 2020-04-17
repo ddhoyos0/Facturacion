@@ -1,0 +1,33 @@
+package com.djhoyos.facturacion.com.service.factura;
+
+import java.util.List;
+
+import com.djhoyos.facturacion.com.models.Factura;
+
+public class FacturaServiceImpl implements FacturaService {
+
+	@Override
+	public List<Factura> listar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Factura crear(Factura factura) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Factura editar(Factura factura) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void eliminar(int id) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

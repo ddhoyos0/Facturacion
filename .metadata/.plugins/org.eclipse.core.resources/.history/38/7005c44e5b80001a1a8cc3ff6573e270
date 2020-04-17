@@ -1,0 +1,5 @@
+package com.djhoyos.facturacion.com.service.factura;
+
+public interface FacturaService {
+
+}
